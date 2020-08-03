@@ -1,6 +1,8 @@
 # Code Refactor Challenge - Horiseon
 ## UT Coding Bootcamp - Module 1 Weekly Challenge - HTML CSS Git Challenge: Code Refactor
-### [Horiseon Website]( https://sarah-safarzadeh.github.io/Horiseon/)
+### Deployed Application: [Horiseon]( https://sarah-safarzadeh.github.io/Horiseon/)
+### GitHub Repository: [Horiseon](https://github.com/Sarah-Safarzadeh/Horiseon)
+![Horiseon Website Screenshot](screenshot1.png)
 ![Horiseon Website Screenshot](screenshot.png)
 ### Challenge:
 A marketing agency wants a codebase that follows accessibility standards so that their own site is optimized for search engines. Refactor the provided starter code to meet the Acceptance Critera given. 
