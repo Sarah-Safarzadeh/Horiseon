@@ -1,3 +1,3 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge
 UT Coding Bootcamp - Module 1 Weekly Challenge: HTML CSS Git Challenge: Code Refactor
-https://sarah-safarzadeh.github.io/Horiseon/
+[Horiseon Website]( https://sarah-safarzadeh.github.io/Horiseon/)
